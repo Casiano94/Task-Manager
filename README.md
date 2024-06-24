@@ -1,5 +1,4 @@
 # TaskManager
-
 TaskManager is a Java-based application designed to help you manage your daily tasks efficiently. This project showcases various Java programming skills, including database management, graphical user interface (GUI) design, and business logic implementation.
 
 ## Features
@@ -24,10 +23,3 @@ TaskManager is a Java-based application designed to help you manage your daily t
 - **Java Development Kit (JDK):** Make sure you have JDK 11 or higher installed.
 - **IntelliJ IDEA:** Recommended IDE for Java development.
 
-### Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your_username/TaskManager.git
-   cd TaskManager
