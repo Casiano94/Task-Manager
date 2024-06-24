@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.taskmanager.TaskController">
+    <children>
+        <HBox spacing="10">
+            <TextField fx:id="taskNameField" promptText="Task Name"/>
+            <TextArea fx:id="taskDescriptionField" promptText="Task Description"/>
+            <Button fx:id="addButton" text="Add Task"/>
+        </HBox>
+        <ListView fx:id="taskListView" />
+    </children>
+</VBox>
